@@ -554,6 +554,18 @@ address li a ion-icon {
   color: #dfdede;
 }
 
+.detailsArtheon {
+  padding-inline: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: #8480f2;;
+  border: #8480f2;
+  border-radius: 35px;
+  font-family: 'inter',sans-serif;
+  font-size: 14px;
+  color: #ffff;
+}
+
 .popup-content {
   margin: 11%;
   display: flex;
@@ -571,7 +583,13 @@ margin-top: 10%;
 }
 .colright img {
   width: auto;
-  height: 250px;
+  height: 290px;
+  margin-right: 20px;
+}
+
+.colright .imgmoom {
+  width: auto;
+  height: 500px;
   margin-right: 20px;
 }
 
